@@ -1,14 +1,14 @@
 {
-  "name": "js-web-scrapper",
+  "name": "js-web-scraper",
   "version": "1.0.0",
-  "description": "dictionary scrapper",
+  "description": "javascript web scraper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "dictionary",
-    "scrapper",
+    "scraper",
     "javascript"
   ],
   "author": "Collins Oduor",
