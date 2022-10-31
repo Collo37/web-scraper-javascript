@@ -1,0 +1,20 @@
+{
+  "name": "js-web-scraper",
+  "version": "1.0.0",
+  "description": "javascript web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dictionary",
+    "scraper",
+    "javascript"
+  ],
+  "author": "Collins Oduor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^13.0.1"
+  }
+}
